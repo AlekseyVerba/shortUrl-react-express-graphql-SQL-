@@ -1,0 +1,5 @@
+{
+    "PORT": 5000,
+    "KEYS_SECRET": "bad cat",
+    "CURRENT_URL": "http://localhost:3000/"
+}
